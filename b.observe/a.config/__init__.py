@@ -1,0 +1,2 @@
+
+dirname = __name__

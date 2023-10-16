@@ -1,0 +1,7 @@
+opencv-python
+pyautogui~=0.9.53
+numpy~=1.23.4
+torch
+easyocr~=1.6.2
+matplotlib~=3.6.2
+pydantic~=1.10.2

@@ -1,0 +1,4 @@
+ahk_cmd=C:/Program Files/AutoHotkey/AutoHotkey.exe
+ahk_exe=PokerStars.exe
+ahk_class=GLFW30
+xywh=950,0,981,719
